@@ -1,5 +1,4 @@
-# parween.naghma-gmail.com
-python-machine-learning-models
+#python-machine-learning-models
 
 Types of machine learning regression models:
 1. Simple linear regression 
